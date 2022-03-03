@@ -1,8 +1,7 @@
-com
-  example
-    test
-      app
-        batch-jobs
-          test-job
+com:
+  example:
+    test:
+      app:
+        batch-jobs:
+          test-job:
             scheduler-enabled: true
-          
